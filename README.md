@@ -124,3 +124,4 @@ git push --set--upstream
 git reset --soft HEAD~1(gets back to the previous commit)
 git reflog
 git reset --soft <id>
+git config --global --unset user.name 
